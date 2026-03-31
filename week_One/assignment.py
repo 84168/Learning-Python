@@ -12,9 +12,9 @@ print("Multiplication",a*b)
 print("Division",a/b)
 
 # Question: 3
-# a = float(input("Enter a integer"))
-# b = float(input("Enter a integer"))
-# c = float(input("Enter a float"))
+a = float(input("Enter a integer"))
+b = float(input("Enter a integer"))
+c = float(input("Enter a float"))
 
 avg = (a+b+c)/3
 print(avg)
